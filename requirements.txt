@@ -1,0 +1,6 @@
+streamlit
+opencv-python
+deepface
+ultralytics
+pyttsx3
+tf-keras

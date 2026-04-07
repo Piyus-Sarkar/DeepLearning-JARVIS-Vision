@@ -1,0 +1,10 @@
+# Ignore the virtual environment
+venv/
+env/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore massive AI weight files (users will download these automatically when they run the code)
+*.pt
+weights/
